@@ -1,0 +1,12 @@
+{
+  "name": "dancingschool",
+  "version": "1.0.0",
+  "description": "Dette er et sjovt projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peder, Idot, Luka",
+  "license": "ISC"
+}
